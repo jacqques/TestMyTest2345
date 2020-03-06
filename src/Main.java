@@ -3,7 +3,8 @@ import java.util.InputMismatchException;
 
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("hahahahahahaha");
+        System.out.println("hahahahahahaha");
         Triangles triangle = new Triangles();
         System.out.println(triangle.triangleType(4, 4, 4));
         System.out.println(triangle.triangleType(4,4,5));
